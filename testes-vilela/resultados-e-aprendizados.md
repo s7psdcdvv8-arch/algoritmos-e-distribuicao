@@ -47,7 +47,7 @@ Escolhidos porque (1) atacam o que as fontes oficiais mais destacam (tempo de ex
 - **Como:** imóveis **diferentes**, mas de tipo e faixa de preço parecidos (não publicar duas versões do mesmo imóvel, para não cair na regra de conteúdo repetido). Mesmo primeiro quadro, mesma estrutura de texto, mesmo CTA. Alternar curto e longo.
 - **Mínimo:** 3 pares (6 vídeos).
 - **Leitura:** comparar tempo médio de exibição, retenção no meio do vídeo, % de não seguidores, seguidores por 1.000 e **contatos no WhatsApp que citam o imóvel** (perguntar à Sweer/atendimento se registra a origem). Retenção percentual **vai** ser menor no longo; isso não é derrota. O que importa é tempo total, alcance e contato.
-- **TikTok (se a conta existir):** publicar os mesmos 6 vídeos, exportados sem marca d'água, e registrar em linhas separadas. Não comparar Instagram com TikTok; comparar longo × curto dentro de cada plataforma.
+- **TikTok (a Vilela usa, confirmado em 01/11/2026):** publicar os mesmos 6 vídeos, exportados sem marca d'água, e registrar em linhas separadas. Não comparar Instagram com TikTok; comparar longo × curto dentro de cada plataforma.
 - **Hipóteses ligadas:** H-IG-05, H-TT-03.
 
 ---
@@ -77,5 +77,5 @@ Separar sempre em quatro grupos.
 ### Pendências
 - Exportar taxa de pulo, retenção e % de não seguidores dos Reels de outubro (linha de base).
 - Conferir Configurações → Status da conta no Instagram.
-- Confirmar se a Vilela usa TikTok.
+- TikTok: levantar @, seguidores e linha de base (mediana dos últimos 15 a 30 vídeos).
 - Perguntar se a Sweer registra de qual vídeo veio cada contato.

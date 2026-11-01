@@ -66,6 +66,6 @@ testes-vilela/resultados-e-aprendizados.md  testes da Vilela: plano, resultado, 
 
 ## Pendências gerais
 
-- A Vilela tem conta ativa no TikTok? Com quantos seguidores e vídeos? Sem isso, a parte de TikTok é só pesquisa.
+- TikTok: a Vilela usa (confirmado em 01/11/2026). Falta o @, seguidores, número de vídeos e a linha de base de desempenho.
 - Exportar retenção, taxa de pulo e % de não seguidores dos Reels recentes (só pelo app).
 - Ler diretamente as páginas oficiais que bloquearam leitura automática (ver cada `fontes-oficiais.md`).

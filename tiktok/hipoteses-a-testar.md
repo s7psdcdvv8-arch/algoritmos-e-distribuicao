@@ -1,6 +1,6 @@
 # TikTok: hipóteses a testar na Vilela
 
-**Pré-requisito pendente:** confirmar se a Vilela tem conta ativa no TikTok, com quantos seguidores e vídeos, e se o Bruno quer usá-la. Sem conta e sem histórico, não existe [EVIDÊNCIA VILELA] no TikTok, e a primeira tarefa é criar uma linha de base (mediana dos primeiros 10 a 15 vídeos).
+**Confirmado (01/11/2026, Bruno):** a Vilela usa o TikTok. **Pendente:** @ da conta, seguidores, número de vídeos e acesso às análises. Ainda não temos [EVIDÊNCIA VILELA] no TikTok; a primeira tarefa é levantar a linha de base (mediana de views e % de views do Para Você dos últimos 15 a 30 vídeos).
 
 Tratamos o TikTok de forma **independente**: o desempenho de um vídeo no Instagram não prevê o desempenho dele no TikTok.
 
@@ -11,7 +11,7 @@ Tratamos o TikTok de forma **independente**: o desempenho de um vídeo no Instag
 - **Base:** [OFICIAL] número de seguidores e vídeos anteriores de sucesso "não são fatores diretos" (TT-OF-02); usuário novo recebe vídeos populares ajustados por **local e idioma** (TT-OF-01).
 - **Hipótese:** um vídeo da Vilela pode chegar a não seguidores da região mesmo com conta pequena, se segurar a atenção.
 - **Como medir:** % de views do Para Você e % de views de São Paulo (análise do TikTok), por vídeo.
-- **Status:** aberta (depende da conta).
+- **Status:** aberta (depende da linha de base).
 
 ## H-TT-02 · Vídeo exportado do Instagram com marca d'água perde elegibilidade
 
