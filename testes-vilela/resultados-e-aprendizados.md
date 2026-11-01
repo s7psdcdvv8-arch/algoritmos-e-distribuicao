@@ -77,5 +77,5 @@ Separar sempre em quatro grupos.
 ### Pendências
 - Exportar taxa de pulo, retenção e % de não seguidores dos Reels de outubro (linha de base).
 - Conferir Configurações → Status da conta no Instagram.
-- TikTok: levantar @, seguidores e linha de base (mediana dos últimos 15 a 30 vídeos).
+- TikTok (@grupovilelaimoveis): levantar seguidores e linha de base (mediana dos últimos 15 a 30 vídeos).
 - Perguntar se a Sweer registra de qual vídeo veio cada contato.

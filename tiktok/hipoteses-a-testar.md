@@ -1,6 +1,6 @@
 # TikTok: hipóteses a testar na Vilela
 
-**Confirmado (01/11/2026, Bruno):** a Vilela usa o TikTok. **Pendente:** @ da conta, seguidores, número de vídeos e acesso às análises. Ainda não temos [EVIDÊNCIA VILELA] no TikTok; a primeira tarefa é levantar a linha de base (mediana de views e % de views do Para Você dos últimos 15 a 30 vídeos).
+**Confirmado (01/11/2026, Bruno):** a Vilela usa o TikTok. Conta: **@grupovilelaimoveis**. **Pendente:** seguidores, número de vídeos e acesso às análises. Ainda não temos [EVIDÊNCIA VILELA] no TikTok; a primeira tarefa é levantar a linha de base (mediana de views e % de views do Para Você dos últimos 15 a 30 vídeos).
 
 Tratamos o TikTok de forma **independente**: o desempenho de um vídeo no Instagram não prevê o desempenho dele no TikTok.
 

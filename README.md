@@ -66,6 +66,6 @@ testes-vilela/resultados-e-aprendizados.md  testes da Vilela: plano, resultado, 
 
 ## Pendências gerais
 
-- TikTok: a Vilela usa (confirmado em 01/11/2026). Falta o @, seguidores, número de vídeos e a linha de base de desempenho.
+- TikTok: a Vilela usa (confirmado em 01/11/2026). Conta @grupovilelaimoveis. Faltam seguidores, número de vídeos e a linha de base de desempenho.
 - Exportar retenção, taxa de pulo e % de não seguidores dos Reels recentes (só pelo app).
 - Ler diretamente as páginas oficiais que bloquearam leitura automática (ver cada `fontes-oficiais.md`).
